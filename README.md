@@ -1,7 +1,7 @@
 # LearnBasics Reference Document
 LearnBasics – A starter project using Appsmith + Render PostgreSQL to learn full-stack basics: CRUD APIs, database integration, and low-code UI building. Ideal for students &amp; makers.
 
-##Appsmith URL
+## Appsmith URL
 
 Access the live Appsmith dashboard here: [**View Application**](https://app.appsmith.com/app/studentfilterapp/page1-68268ed326a9710102d650ad)
 
