@@ -5,6 +5,10 @@ LearnBasics – A starter project using Appsmith + Render PostgreSQL to learn fu
 
 Access the live Appsmith dashboard here: [**View Application**](https://app.appsmith.com/app/studentfilterapp/page1-68268ed326a9710102d650ad)
 
+### Demo Video
+
+![Appsmith Demo](https://drive.google.com/file/d/1WxfgYxLdobveP4mfsotWZhVp6goLkPW0/view?usp=drive_link)
+
 ---
 
 ### Creating a PostgreSQL Database and Appsmith Application
