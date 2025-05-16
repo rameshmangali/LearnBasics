@@ -1,9 +1,8 @@
-Hostname: dpg-d0iv4rh5pdvs739t6u9g
+Hostname: example-hostname
 Port: 5432
-DB: students_t8ec
+DB: students
 Username: admin
-Password:psVjHOp3yR7Vp4wOOtMiWpA5KOdDqwzZ
-Internal Database URL: postgresql://admin:psVjHOp3yR7Vp4wOOtMiWpA5KOdDqwzZ@dpg-d0iv4rh5pdvs739t6u9g/students_t8ec
-External Database URL: postgresql://admin:psVjHOp3yR7Vp4wOOtMiWpA5KOdDqwzZ@dpg-d0iv4rh5pdvs739t6u9g.singapore-postgres.render.com/students_t8ec
-PSQL Command: PGPASSWORD=psVjHOp3yR7Vp4wOOtMiWpA5KOdDqwzZ psql -h dpg-d0iv4rh5pdvs739t6u9g-a.singapore-postgres.render.com -U admin students_t8ec
+Password:PASSWORD
+Internal Database URL: postgresql://admin:PASSWORD@example-hostname/students
+External Database URL: postgresql://admin:PASSWORD@example-hostname.singapore-postgres.render.com/students
 URL: https://app.appsmith.com/app/studentfilterapp/page1-68268ed326a9710102d650ad
