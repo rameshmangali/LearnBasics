@@ -7,7 +7,7 @@ Access the live Appsmith dashboard here: [**View Application**](https://app.apps
 
 ### Demo Video
 
-![Appsmith Demo](https://drive.google.com/file/d/1WxfgYxLdobveP4mfsotWZhVp6goLkPW0/view?usp=drive_link)
+[Watch the demo video](https://drive.google.com/file/d/1WxfgYxLdobveP4mfsotWZhVp6goLkPW0/view?usp=drive_link)
 
 ---
 
